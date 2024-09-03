@@ -2,13 +2,13 @@
 
 **My name is Araki Yamahashi**
 
-**Technical Director / Fullstack + Blockchain Engineer, AI Creative Generative Systems and pipelines.**
+/***Technical Director / Fullstack + Blockchain Engineer, AI Creative Generative Systems and pipelines.**
 
 - 🌍  I'm based in ~~Osaka (Japan) Amsterdam (Netherlands) Bali (Indonesia)~~ São Paulo (Brazil)
 - 🖥️  See my portfolio at [fulldev0023.com](https://fulldev0023.com)
 - ✉️  You can contact me at [fulldev0023@fluuu.id](mailto:fulldev0023@fluuu.id)
 - 🚀  I'm currently working on [mgxs.co](https://mem.mgxs.co) and [BCG X](https://bcg.com/x)
-- 🧠  Currently researching and playing aroung with Generative AI, StableDiffusion, AI pipelines
+- 🧠  Currently researching and playing aroung with Generative AI, StableDiffusion, AI pipelines*/
 
 ### Skills 
 
