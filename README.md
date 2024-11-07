@@ -1,12 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32px" height="32px"> Hello world
 
 **My name is Araki Yamahashi**
-# My Project
-
-## Achievements
-
-Pull Shark 🦈 3️⃣
-
 
 <picture >
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3059210/174351169-843e1411-f904-4739-8b01-5c9a4dd5ae52.png">
